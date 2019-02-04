@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "borbier",
+        "password": "password1",
+        "profession": "software engineer",
+        "id": 1
+    },
+    "2": {
+        "name": "nedondev",
+        "password": "password2",
+        "profession": "data engineer",
+        "id": 2
+    },
+    "3": {
+        "name": "nutorbit",
+        "password": "password3",
+        "profession": "data scientist",
+        "id": 3
+    },
+    "4": {
+        "name": "bright",
+        "password": "password4",
+        "profession": "frontend developer",
+        "id": 4
+    }
+}
